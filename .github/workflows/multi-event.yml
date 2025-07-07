@@ -10,7 +10,7 @@ on:
       - master
 
 jobs:
-  hello_world:
+  multi-event-job:
     runs-on: ubuntu-latest
     steps:
       - name: "Echo Basic Information"
