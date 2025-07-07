@@ -1,1 +1,1 @@
-# actions-learning
+# Изучение GitHub Actions;
